@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MITx MicroMaster in Statistics and Data Science 
+  uni: MIT and Edx 
+  year:  
+  summary: Key topics - Statistics, social sciences data analysis, machine learning, deep learning 
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: MBA
+  uni: Strathmore University, Kenya 
+  year:  
+  award: International module with IESE business school
+  summary: Thesis topic area - Market segmentation using latent class cluster analysis 
+
+- degree: B. Sc. Computer Science
+  uni: University of Nairobi, Kenya 
+  year: 
+  award: First class honours 
+  summary: Dissertation topic area - Mobile development and NLP 
